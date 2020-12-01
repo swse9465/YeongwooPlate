@@ -1,0 +1,13 @@
+category
+               Sparse[float64, nan]
+50cm피자|피자      Sparse[float64, nan]
+LA갈비|가정식백반     Sparse[float64, nan]
+LP바            Sparse[float64, nan]
+bar|떡볶이        Sparse[float64, nan]
+                       ...         
+흑임자빙수|카페       Sparse[float64, nan]
+흑임자아이스크림|카페    Sparse[float64, nan]
+흑임자팥빙수|팥빙수     Sparse[float64, nan]
+히레까스|돈까스       Sparse[float64, nan]
+히츠마부시|장어덮밥     Sparse[float64, nan]
+Length: 16361, dtype: object

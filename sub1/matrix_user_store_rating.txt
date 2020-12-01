@@ -1,0 +1,13 @@
+store_name
+007식당         Sparse[float64, nan]
+010수산         Sparse[float64, nan]
+03수제비칼국수      Sparse[float64, nan]
+03인앤아웃        Sparse[float64, nan]
+0430 국물닭갈비    Sparse[float64, nan]
+                      ...         
+지구촌한우생고기      Sparse[float64, nan]
+지군포차          Sparse[float64, nan]
+지글            Sparse[float64, nan]
+진삼미 샌드위치      Sparse[float64, nan]
+한옥마을 전주비빔밥    Sparse[float64, nan]
+Length: 31747, dtype: object

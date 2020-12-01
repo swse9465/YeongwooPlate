@@ -1,0 +1,161 @@
+.mainpage {
+  margin-top: -33px;
+  margin-left: -170px;
+  position: relative;
+}
+.box {
+  height: 300px;
+  background-color: #5cbfdd;
+  position: relative;
+  min-width: 1650px;
+  margin-top: -140px;
+  /* text-align:center; */
+}
+
+.box-logo {
+  position: absolute;
+  left: 10px;
+  top: 25px;
+  color: white;
+}
+
+.box-ment {
+  /* background-color: #949da0; */
+
+  width: 2000px;
+  position: absolute;
+  margin-left: -200px;
+  margin-top: -350px;
+  font-size: 450%;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
+.box-userlogo {
+  width: 50px;
+  position: absolute;
+  left: 92%;
+  top: 10%;
+  cursor: pointer;
+}
+
+.box-search {
+  width: 400px;
+  position: absolute;
+  left: 33%;
+  top: 60%;
+}
+
+.box-search-button {
+  position: absolute;
+  left: 100%;
+  top: -32px;
+}
+
+.contents {
+  height: 550px;
+  position: relative;
+  min-width: 1650px;
+}
+
+.content {
+  background-color: rgb(247, 245, 245);
+  position: relative;
+}
+.categoriContents {
+  background-color: #fafafa;
+  position: relative;
+  width: 1350px;
+  left: 100px;
+}
+
+.bigdatacontents {
+  /* background-color: #eec8c8; */
+  position: relative;
+  min-width: 1680px;
+  margin-left: -55px;
+}
+
+.content-img {
+  width: 480px;
+  height: 250px;
+  filter: brightness(75%);
+}
+
+.content-mentbox {
+  /* background-color: #5cbfdd; */
+  width: 480px;
+  position: absolute;
+  left: 0%;
+  top: 100%;
+  margin-top: 100px;
+}
+
+.content-ment {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* -----------------------------------userlogo_dropbox css ----------------------------------------------*/
+.userlogo_dropbox {
+  position: relative;
+  left: 83%;
+  top: 22%;
+}
+.userlogo-onMouseOut-area {
+  /* background-color: rgb(245, 10, 10); */
+  width: 250px;
+  height: 210px;
+  position: absolute;
+  left: -15px;
+  top: -40px;
+}
+
+.userlogo-onMouseOver-area {
+  /* background-color: rgb(255, 255, 255); */
+  width: 220px;
+  height: 180px;
+  position: absolute;
+  top: -35px;
+}
+
+.userlogo-onMouseOver {
+  background-color: rgb(226, 224, 224);
+  width: 200px;
+  height: 120px;
+  position: absolute;
+  left: 10px;
+  top: 55px;
+}
+
+.userlogo-onMouseOver-mypage {
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  position: absolute;
+  left: 50px;
+  top: 20px;
+}
+.userlogo-onMouseOver-login {
+  background-color: rgb(255, 255, 255);
+  width: 130px;
+  height: 30px;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  cursor: pointer;
+  position: absolute;
+  left: 35px;
+  top: 70px;
+}
+
+.contentsName {
+  font-size: 25px;
+  margin-bottom: 35px;
+  margin-left: -30px;
+  color: #ff8b5c;
+  font-weight: bold;
+}
